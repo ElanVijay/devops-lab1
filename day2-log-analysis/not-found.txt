@@ -1,0 +1,6 @@
+      2 GET /admin HTTP/1.1
+      1 GET /wp-login.php HTTP/1.1
+      1 GET /phpmyadmin HTTP/1.1
+      1 GET /old-page HTTP/1.1
+      1 GET /missing.html HTTP/1.1
+      1 GET /.env HTTP/1.1
